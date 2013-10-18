@@ -1,3 +1,3 @@
 # HTML5 Geolocation
 
-Read http://diveintohtml5.org/geolocation
+Read http://diveintohtml5.info/geolocation.html
