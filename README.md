@@ -1,6 +1,8 @@
 prewired
 ========
 
+This archive is only of historical interest and has been archived.
+
 Repo for http://prewired.org
 
 More info might appear at http://ewan-klein.github.io/prewired/
